@@ -5,14 +5,14 @@ This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 applicati
 
 # Requirements
 
-Visual Studio 2019		
+Visual Studio 2019	/ VS Code	
 ASP.NET Core 3.0 SDK
 
 # How to run?
 Just open Visual studio and run project, documentation site will be up and running.	
 
 # How to host?	
-You can host this site any where in Linux/Windows/Azure/AWS server.
+You can host this site any where in Linux/Windows/Azure/AWS server wherever ASP.NET Core runs.
 
 # How to add documentation
 Open this folder wwwroot and add your documentation files in .md(markdown) format.	
